@@ -1,3 +1,5 @@
 # TulsaGrass.com Static Site
 
-Finally putting this on github
+tulsagrass.com static website
+
+updated 8/20/15 - changed permissions and removed index.php and .rvmrc
